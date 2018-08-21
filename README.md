@@ -1,5 +1,5 @@
 # The-Unsinkable-Project
-##The Unsinkable Project intends to make crypto beginner-friendly.
+## The Unsinkable Project intends to make crypto beginner-friendly.
 The Unsinkable ICO Standard (TUIS) intend to protect the general public from deceptive and/or predatory ICO tokenomics.
 In order to do this, Unsinkable coins/tokens must be asset-backed and redeemable for ICO price.
 The circulating supply and buyback offering must be immutably managed by smart contract.
@@ -13,7 +13,7 @@ I have hired an experienced full stack SSC developer.
 
 I am experienced with collaborative projects, but new to javascript and coding.
 
-###Intended Mechanics
+### Intended Mechanics
 What is the semantic for how you are going to use your repository?
 I am still learning "commits," and the jargon of coding and GitHub.  
 Anyways, I was thinking that the main branch of the repository should be for fully tested, currently deployed on Stellar mainnet code.
@@ -26,7 +26,7 @@ https://www.unsinkable.io/hodl-wallet
 http://www.wallet.unsinkable.io
 
 This repository is intended to fulfill the deliverable requirements for 2 Stellar Smart Contracts (SSCs)  
-###HODL Wallet SSC - 2.5/9 ~ 28%  - 9 Deliverables - 2 Working (W) - 1 In-Progress (IP) - 6 Not-Started (NS)  
+### HODL Wallet SSC - 2.5/9 ~ 28%  - 9 Deliverables - 2 Working (W) - 1 In-Progress (IP) - 6 Not-Started (NS)  
     Coding stack libraries (nodejs) and encrypted AWS database - W  
     UI and testnet alpha - W  
     Automatic Token Buyback - IP  
@@ -37,7 +37,7 @@ This repository is intended to fulfill the deliverable requirements for 2 Stella
     Time-Lock HODL Escrow (Unsinkable tokenomic backend) - NS  
     Stellar asset (tokenized BTC, ETH, LTC) trading and conversion - NS  
 
-###UNSK SSC - 8 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 9 Not-Started (NS)  
+### UNSK SSC - 8 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 9 Not-Started (NS)  
     Immutable Crowdfunding Token Distribution - NS  
     stellar.tomls - IP  
     Instant Escrow - NS  
