@@ -1,6 +1,6 @@
 # The-Unsinkable-Project
 ## The Unsinkable Project intends to make crypto beginner-friendly.
-The Unsinkable ICO Standard (TUIS) intend to protect the general public from deceptive and/or predatory ICO tokenomics.
+The Unsinkable ICO Standard (TUIS) intends to protect the general public from deceptive and/or predatory ICO tokenomics.
 In order to do this, Unsinkable coins/tokens must be asset-backed and redeemable for ICO price.
 The circulating supply and buyback offering must be immutably managed by smart contract.
 We are building nodejs API implementations to make this process automatic, as a proof of concept.
@@ -21,9 +21,9 @@ Then I think we will need a branch for code that is undergoing security review a
 Then we probably need a branch for in-development, not ready for deployment yet.
 We might need another branch depending on how we deploy, ie GitHub pages and/or AWS.
 
-The nodejs Stellar API implementations are currently deployed on The Unsinkable Project's AWS server, running on Stellar testnet and available for review.
-https://www.unsinkable.io/hodl-wallet
-http://www.wallet.unsinkable.io
+The nodejs Stellar API implementations are currently deployed on The Unsinkable Project's AWS server, running on Stellar testnet and available for review.  
+https://www.unsinkable.io/hodl-wallet  
+http://www.wallet.unsinkable.io  
 
 This repository is intended to fulfill the deliverable requirements for 2 Stellar Smart Contracts (SSCs)  
 ### HODL Wallet SSC - 2.5/9 ~ 28%  - 9 Deliverables - 2 Working (W) - 1 In-Progress (IP) - 6 Not-Started (NS)  
@@ -37,7 +37,7 @@ This repository is intended to fulfill the deliverable requirements for 2 Stella
     Time-Lock HODL Escrow (Unsinkable tokenomic backend) - NS  
     Stellar asset (tokenized BTC, ETH, LTC) trading and conversion - NS  
 
-### UNSK SSC - 8 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 9 Not-Started (NS)  
+### UNSK SSC - 9 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 8 Not-Started (NS)  
     Immutable Crowdfunding Token Distribution - NS  
     stellar.tomls - IP  
     Instant Escrow - NS  
