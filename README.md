@@ -16,17 +16,17 @@ I am experienced with collaborative projects, but new to javascript and coding.
 ### Intended Mechanics
 What is the semantic for how you are going to use your repository?
 I am still learning "commits," and the jargon of coding and GitHub.  
-Anyways, I was thinking that the main branch of the repository should be for fully tested, currently deployed on Stellar mainnet code.
-Then I think we will need a branch for code that is undergoing security review and is currently deployed on Stellar testnet.
-Then we probably need a branch for in-development, not ready for deployment yet.
-We might need another branch depending on how we deploy, ie GitHub pages and/or AWS.
+Anyways, I was thinking that the main branch of the repository should be for fully tested, currently deployed on Stellar mainnet code. (master)  
+Then I think we will need a branch for code that is undergoing security review and is currently deployed on Stellar testnet. (Unsinkable-HODL-Wallet)  
+Then we probably need a branch for in-development, not ready for deployment yet.  
+We might need another branch depending on how we deploy, ie GitHub pages and/or AWS. (gh-pages)  
 
 The nodejs Stellar API implementations are currently deployed on The Unsinkable Project's AWS server, running on Stellar testnet and available for review.  
 https://www.unsinkable.io/hodl-wallet  
 http://www.wallet.unsinkable.io  
 
 This repository is intended to fulfill the deliverable requirements for 2 Stellar Smart Contracts (SSCs)  
-### HODL Wallet SSC - 2.5/9 ~ 28%  - 9 Deliverables - 2 Working (W) - 1 In-Progress (IP) - 6 Not-Started (NS)  
+#### HODL Wallet SSC - 2.5/9 ~ 28%  - 9 Deliverables - 2 Working (W) - 1 In-Progress (IP) - 6 Not-Started (NS)  
     Coding stack libraries (nodejs) and encrypted AWS database - W  
     UI and testnet alpha - W  
     Automatic Token Buyback - IP  
@@ -37,7 +37,7 @@ This repository is intended to fulfill the deliverable requirements for 2 Stella
     Time-Lock HODL Escrow (Unsinkable tokenomic backend) - NS  
     Stellar asset (tokenized BTC, ETH, LTC) trading and conversion - NS  
 
-### UNSK SSC - 9 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 8 Not-Started (NS)  
+#### UNSK SSC - 0.5/9 ~ 5% - 9 Deliverables - 0 Working (W) - 1 In-Progress (IP) - 8 Not-Started (NS)  
     Immutable Crowdfunding Token Distribution - NS  
     stellar.tomls - IP  
     Instant Escrow - NS  
