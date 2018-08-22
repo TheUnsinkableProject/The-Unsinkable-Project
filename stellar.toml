@@ -1,0 +1,62 @@
+# Unsinkable.io a rising tide lifts all ships.
+
+ACCOUNTS=[
+"GDCEJH75OOXHUQH2IA4SYVHNEYXN2N4FTAOUKUHN7GR3M4VFKNOH7LVH", 
+"GAAEJ2EZLSOGRTRYRVMTWGDTKM6AUXJHYAUZTYJMAUDWHH3MUH5MI2VI", 
+"GDFERSNZTYT7Z5PFIH2GTJCQBMHTPVZEGY5LR5HQRZVYAJBAF4DH4XW2", 
+"GCKZ5UJFMXLDLQ26V6FEW3XMZLOF3WWEA43VARIBNFGBETWZ6C235YNS", 
+"GDHSFMSSXT3KVLTWS7I7ATSXVL6YYSTZ5NAFB5HU7IDWEBDBGKYJQ6MR", 
+"GC6ZDZX2MKQFINA4BD77IYRKKCTYAEVJST4OB5EIKK6BEMIP4NJ3QPB7", 
+"GDXKWLFHHH5OMTGCBZE5E5VYYAI7KTLMTU4WFTWSJLMXD2THCEZI3B7G"
+]
+
+
+[[CURRENCIES]]
+code="UNSK"
+issuer="GDCEJH75OOXHUQH2IA4SYVHNEYXN2N4FTAOUKUHN7GR3M4VFKNOH7LVH"
+status="live"
+display_decimals=7
+name="UNSK"
+max_number=210000000
+desc="The first Unsinkable Token. Asset-backed and redeemable for ICO price."
+conditions="There will only be 210 million in circulation"
+image="https://static.wixstatic.com/media/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png/v1/fill/w_125,h_125,al_c/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png"
+
+[[CURRENCIES]]
+code="PICOUNSK"
+issuer="GDCEJH75OOXHUQH2IA4SYVHNEYXN2N4FTAOUKUHN7GR3M4VFKNOH7LVH"
+status="live"
+is_asset_anchored=false
+display_decimals=7
+name="PICOUNSK"
+max_number=2100000
+desc="Pre-ICO UNSK. UNSK will be airdropped. 2 planned snapshots."
+conditions="There will only be 2.1 million in circulation"
+image="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png/v1/fill/w_32,h_32,al_c/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
+
+
+
+[DOCUMENTATION]
+
+ORG_NAME="The Unsinkable Project"
+
+
+ORG_URL="https://git.unsinkable.io"
+
+ORG_LOGO="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png/v1/fill/w_32,h_32,al_c/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
+
+ORG_DESCRIPTION="Make crypto beginner-friendly. The Unsinkable ICO Standard makes tokens asset-backed and redeemable for ICO price. 
+
+
+ORG_GITHUB="TheUnsinkableProject"
+
+ORG_OFFICIAL_EMAIL="theunsinkableproject@protonmail.com"
+
+
+
+
+[[PRINCIPALS]]
+
+name="Unsinkamoto"
+
+email="unsinkamoto@protonmail.com"
