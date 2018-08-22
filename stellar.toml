@@ -1,0 +1,18 @@
+# Unsinkable stellar.toml
+
+[[CURRENCIES]]
+code="UNSK"
+issuer="GDCEJH75OOXHUQH2IA4SYVHNEYXN2N4FTAOUKUHN7GR3M4VFKNOH7LVH"
+display_decimals=7
+name="UNSK"
+desc="The first Unsinkable Token. Asset-backed and redeemable for ICO price."
+conditions="There will only be 210 million in circulation"
+image="https://static.wixstatic.com/media/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png/v1/fill/w_125,h_125,al_c/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png"
+
+code="PICOUNSK"
+issuer="GDCEJH75OOXHUQH2IA4SYVHNEYXN2N4FTAOUKUHN7GR3M4VFKNOH7LVH"
+display_decimals=7
+name="PICOUNSK"
+desc="Pre-ICO UNSK. UNSK will be airdropped. 2 planned snapshots."
+conditions="There will only be 2.1 million in circulation"
+image="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png/v1/fill/w_32,h_32,al_c/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
