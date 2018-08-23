@@ -19,7 +19,7 @@ name="UNSK"
 max_number=210000000
 desc="The first Unsinkable Token. Asset-backed and redeemable for ICO price."
 conditions="There will only be 210 million in circulation"
-image="https://static.wixstatic.com/media/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png/v1/fill/w_125,h_125,al_c/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png"
+image="https://static.wixstatic.com/media/83a799_a53a75b55bd24fea8e8f011cbca68173~mv2.png"
 
 [[CURRENCIES]]
 code="PICOUNSK"
@@ -31,12 +31,12 @@ name="PICOUNSK"
 max_number=2100000
 desc="Pre-ICO UNSK. UNSK will be airdropped. 2 planned snapshots."
 conditions="There will only be 2.1 million in circulation"
-image="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png/v1/fill/w_32,h_32,al_c/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
+image="https://static.wixstatic.com/media/83a799_7394490d69144e5ea6b5d76bb3436178~mv2.png"
 
 [DOCUMENTATION]
 ORG_NAME="The Unsinkable Project"
-ORG_URL="https://git.unsinkable.io"
-ORG_LOGO="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png/v1/fill/w_32,h_32,al_c/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
+ORG_URL="https://unsk.unsinkable.io"
+ORG_LOGO="https://static.wixstatic.com/media/83a799_4b80c94870fa4021b9f49976389c18d6~mv2.png"
 ORG_DESCRIPTION="Make crypto beginner-friendly. The Unsinkable ICO Standard makes tokens asset-backed and redeemable for ICO price." 
 ORG_GITHUB="TheUnsinkableProject"
 ORG_OFFICIAL_EMAIL="theunsinkableproject@protonmail.com"
