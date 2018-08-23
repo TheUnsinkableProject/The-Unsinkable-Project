@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 include: [.well-known, stellar.toml]
+plugins:
+  - jekyll-redirect-from
